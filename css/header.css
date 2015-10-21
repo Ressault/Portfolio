@@ -15,12 +15,12 @@ html,body{height:100%;}
 
 .text p {
 	position: relative;
-	top: 30%;
-  -webkit-transform: translateY(-30%);
-  -ms-transform: translateY(-30%);
-  transform: translateY(-30%);
-	padding: 30px;
-	font-size: 20px;
+	top: 35%;
+  -webkit-transform: translateY(-35%);
+  -ms-transform: translateY(-35%);
+  transform: translateY(-35%);
+	padding: 20px;
+	font-size: 25px;
 }
 
 .header {
