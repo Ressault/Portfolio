@@ -1,8 +1,11 @@
+html,body{height:100%;}
 
-#container .profil-card {
-	height: 300px;
 
-	background-color: #D32F2F !important;
+.profil-card {
+	height: 250px;
+	width: 100%;
+
+	background-color: #3F51B5 !important;
 
 	
 	margin-bottom: -105px;
@@ -15,25 +18,21 @@ display: block;
  margin-right: auto ;
 }
 
-
-
-
-
-
 .hello { 
-	margin-top: 0px;
+	margin-top: 15px;
 	height: 100px;
-	margin-top: -150px;
 	z-index: 400;
 	position: relative;
 	display: block;
+	margin-left: auto;
+ margin-right: auto ;
+
 	
 }
 
 .hello p {
 	
-	font-size: 25px;
-	
+	font-size: 25px;	
 }
 
 
@@ -51,7 +50,7 @@ display: block;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   }
-html,body{height:100%;}
+
 
 .header {
     height:100%;
@@ -63,7 +62,9 @@ html,body{height:100%;}
     width:100%;
     height:100%;
     min-height:100%;
-    background-color:grey;
+    background-color:#D32F2F;
+    z-index: -1;
     
     color:#efefef;
 }
+
