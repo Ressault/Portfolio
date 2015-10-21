@@ -8,6 +8,11 @@
 }
 
 .logo {
-	margin-top: -4px;
+	margin-top: -6px;
 	margin-right: -4px;
+}
+
+.navbar-default {
+  background-color: #F44336 !important;
+  border-color: #e7e7e7;
 }
