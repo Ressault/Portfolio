@@ -21,20 +21,25 @@ display: block;
 
 
 .hello { 
-	margin-top: 20px;
+	margin-top: 0px;
 	height: 100px;
+	margin-top: -150px;
+	z-index: 400;
+	position: relative;
+	display: block;
 	
 }
 
 .hello p {
 	
 	font-size: 25px;
+	
 }
 
 
 .suis {
 	background-color: blue;
-	height: 150px;
+	height: 550px;
 }
 
 
