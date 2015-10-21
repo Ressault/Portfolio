@@ -4,8 +4,8 @@ html,body{height:100%;}
   position: relative;
   top: 30%;
   -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-30%);
-  transform: translateY(-30%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
   font-size: 25px;
   font-family: 'RobotoDraft';
   font-style: normal;
