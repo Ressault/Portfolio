@@ -1,6 +1,6 @@
 html,body{height:100%;}
 
-.text p {
+.text img {
   position: relative;
   top: 40%;
   -webkit-transform: translateY(-40%);
