@@ -1,0 +1,37 @@
+.custom-navbar .fa {font-size:25px}
+
+@media (max-width:767px) { 
+	.custom-navbar .navbar-left {
+	    float: left;
+	    padding-right: 15px;
+	}
+	.custom-navbar .nav.navbar-nav.navbar-left li {
+	    float: left;
+	}
+  	.custom-navbar .nav.navbar-nav.navbar-left li > a {
+	    padding:8px 5px;
+	}
+	.custom-navbar .navbar-toggle {
+	    float: left
+	}
+	.custom-navbar .navbar-header {
+		float: left;
+	    width: auto!important;
+	    height: 8px;
+	}
+	.custom-navbar .navbar-collapse {
+	    clear: both;
+	    float: none;
+	}
+}
+
+.light {
+  font-size: 20px;
+  font-family: 'RobotoDraft';
+  font-style: normal;
+  font-weight: 500;
+}
+
+.logo img {
+	margin-top: 4px;
+}
